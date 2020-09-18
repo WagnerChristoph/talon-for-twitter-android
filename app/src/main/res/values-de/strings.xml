@@ -110,7 +110,7 @@
     <string name="new_interactions">Neue Interaktionen</string>
     <string name="retweeted">retweetete deinen Tweet</string>
     <string name="favorited">favte Deinen Tweet</string>
-    <string name="quoted">hat Dich zitiert</string>
+    <string name="quoted">hat dich zitiert</string>
     <string name="followed">folgt dir</string>
     <string name="new_retweets">Retweets</string>
     <string name="new_favorites">Favs</string>
@@ -723,4 +723,15 @@ Erwähnungen, neue Follower, Retweets und Likes Deiner Status werden hier ersche
     <string name="saved_tweets">Gespeicherte Tweets</string>
     <string name="save_for_later">Speichern für später</string>
     <string name="remove_from_saved_tweets">Von den gespeicherten Tweets entfernen</string>
+    <string name="rate_it_no_thanks">Nein danke!</string>
+    <string name="no_content_home">Keine Tweets!</string>
+    <string name="emoji_style">Emoji-Stil</string>
+    <string name="emoji_style_default">System</string>
+    <string name="emoji_style_android_o">Google Android Oreo</string>
+    <string name="no_favorites_warning">Leider hat Twitter diese Funktion für Drittanbieter-Apps gesperrt.</string>
+    <string name="deleting_messages">Lösche Nachrichten</string>
+    <string name="delete_conversation">Konversation löschen?</string>
+    <string name="type_message">Verfasse eine Nachricht...</string>
+    <string name="alway_show_tweet_buttons">Tweet-Actions immer anzeigen</string>
+    <string name="rate_it">Bewerte Talon</string>
 </resources>
